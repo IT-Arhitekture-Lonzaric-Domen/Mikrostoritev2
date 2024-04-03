@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package com.feri;
+package si.um.feri;
 
 // Sporočila za uporabnike
 message User {
